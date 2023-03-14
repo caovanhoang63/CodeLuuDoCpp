@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\x64\Debug\Bai006.exe</FullPath>
+=======
+      <FullPath>C:\Users\Laptop MSI\Desktop\BuiThaiHoang\CodeLuuDoCpp\x64\Debug\Bai006.exe</FullPath>
+>>>>>>> b94436a64c76cc0cb6bda38a7a21b89c57ed5734
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

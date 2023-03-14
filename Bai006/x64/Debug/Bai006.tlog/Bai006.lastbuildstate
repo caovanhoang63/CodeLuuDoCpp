@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.34.31933:TargetPlatformVersion=10.0.19041.0:
 Debug|x64|C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.35.32215:TargetPlatformVersion=10.0.22000.0:
+Debug|x64|C:\Users\Laptop MSI\Desktop\BuiThaiHoang\CodeLuuDoCpp\|
+>>>>>>> b94436a64c76cc0cb6bda38a7a21b89c57ed5734
