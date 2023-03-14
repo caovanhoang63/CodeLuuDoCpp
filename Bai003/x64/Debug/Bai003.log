@@ -1,0 +1,3 @@
+﻿  Bai003.cpp
+C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\Bai003\Bai003.cpp(7,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bai003.vcxproj -> C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\x64\Debug\Bai003.exe

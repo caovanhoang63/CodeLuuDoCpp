@@ -1,0 +1,5 @@
+﻿  Bai140.cpp
+C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\Bai140\Bai140.cpp(23,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\Bai140\Bai140.cpp(31,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\Bai140\Bai140.cpp(32,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai140.vcxproj -> C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\x64\Debug\Bai140.exe
