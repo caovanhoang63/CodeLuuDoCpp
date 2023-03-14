@@ -1,2 +1,4 @@
 ﻿  Bai008.cpp
-  Bai008.vcxproj -> C:\Users\Hoang\Desktop\CodeLuuDo\CodeLuuDoCpp\x64\Debug\Bai008.exe
+C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\Bai008\Bai008.cpp(12,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\x64\Debug\Bai008.exe not found or not built by the last incremental link; performing full link
+  Bai008.vcxproj -> C:\Users\nhdhi\Desktop\UIT_Together\CodeLuuDoCpp\x64\Debug\Bai008.exe
