@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\hoctap\Nam1\HK2\OOP\6N+4\Bai106\Source.cpp(15,6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\hoctap\Nam1\HK2\OOP\6N+4\Bai106\Source.cpp(18,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Bai106.vcxproj -> E:\hoctap\Nam1\HK2\OOP\6N+4\x64\Debug\Bai106.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\hoctap\Nam1\HK2\OOP\6N+4\Bai124\Source.cpp(13,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai124.vcxproj -> E:\hoctap\Nam1\HK2\OOP\6N+4\x64\Debug\Bai124.exe
