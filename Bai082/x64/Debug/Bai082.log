@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\hoctap\Nam1\HK2\OOP\6N+4\Bai082\Source.cpp(12,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\hoctap\Nam1\HK2\OOP\6N+4\Bai082\Source.cpp(13,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\hoctap\Nam1\HK2\OOP\6N+4\Bai082\Source.cpp(15,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai082.vcxproj -> E:\hoctap\Nam1\HK2\OOP\6N+4\x64\Debug\Bai082.exe

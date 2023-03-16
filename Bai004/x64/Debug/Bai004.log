@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\hoctap\Nam1\HK2\OOP\6N+4\Bai004\Source.cpp(3,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Bai004.vcxproj -> E:\hoctap\Nam1\HK2\OOP\6N+4\x64\Debug\Bai004.exe
